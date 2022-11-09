@@ -274,6 +274,9 @@ font-size: 14px;
         width: 295px;
         padding-left: 14px;
     }
+     .product__specifications__content li{
+        margin-bottom: 15px;
+    }
     .product__specifications__contenttwo{
         padding-left: 30px
     }
