@@ -270,12 +270,12 @@ font-size: 14px;
     }
    .product__specifications__content{
        display: block;
-        font-size: 14px;
+        font-size: 16px;
         width: 295px;
         padding-left: 14px;
     }
     .product__specifications__contenttwo{
-        padding-left: 24px
+        padding-left: 28px
     }
     hr{
         width: 295px;
