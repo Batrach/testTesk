@@ -269,13 +269,13 @@ border-radius: 20px;
 font-size: 14px;
     }
    .product__specifications__content{
-       display: block;
-        font-size: 16px;
+        display: block;
+        font-size: 20px;
         width: 295px;
         padding-left: 14px;
     }
     .product__specifications__contenttwo{
-        padding-left: 28px
+        padding-left: 30px
     }
     hr{
         width: 295px;
