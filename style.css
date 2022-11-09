@@ -251,7 +251,7 @@ border-radius: 20px;
     .product__description{
         display: grid;
         justify-content: center;
-        width: 295px;
+        width: 279px;
     }
     .product__description__title{
         font-size: 24px;
