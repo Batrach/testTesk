@@ -268,11 +268,14 @@ border-radius: 20px;
         font-weight: 400;
 font-size: 14px;
     }
-    .product__specifications__content{
-        display: block;
-       
+   .product__specifications__content{
+       display: block;
         font-size: 14px;
-        max-width: 295px;
+        width: 295px;
+        padding-left: 14px;
+    }
+    .product__specifications__contenttwo{
+        padding-left: 24px
     }
     hr{
         width: 295px;
