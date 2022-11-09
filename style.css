@@ -273,6 +273,7 @@ font-size: 14px;
         padding-left: 1em;
         line-height: 2em;
         font-size: 14px;
+        max-width: 295px;
     }
     hr{
         width: 295px;
