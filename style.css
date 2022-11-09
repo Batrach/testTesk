@@ -272,13 +272,13 @@ border-radius: 20px;
        display: block;
         font-size: 14px;
         width: 295px;
-        padding-left: 14px;
+        padding-left: 16px;
     }
     .product__specifications__content li{
         margin-top: 15px;
     }
     .product__specifications__contenttwo{
-        padding-left: 24px
+        padding-left: 28px
     }
 
     hr{
