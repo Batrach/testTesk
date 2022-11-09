@@ -270,7 +270,7 @@ font-size: 14px;
     }
     .product__specifications__content{
         display: block;
-        padding-inline-start: 14px;
+       
         font-size: 14px;
         max-width: 295px;
     }
